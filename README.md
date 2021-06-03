@@ -1,3 +1,3 @@
 #Docker compose Service
 
-Docker compose service App to instantiate app images
+Docker compose service App to instantiate ELK containers
